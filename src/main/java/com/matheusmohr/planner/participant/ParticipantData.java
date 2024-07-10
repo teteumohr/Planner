@@ -1,2 +1,7 @@
-package com.matheusmohr.planner.participant;public record ParticipantData() {
+package com.matheusmohr.planner.participant;
+
+import java.util.UUID;
+
+public record ParticipantData(UUID id, String name, String email, Boolean isConfirmed) {
+
 }
