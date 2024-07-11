@@ -1,6 +1,5 @@
-package com.matheusmohr.planner.activities;
+package com.matheusmohr.planner.activity;
 
-import com.matheusmohr.planner.participant.ParticipantData;
 import com.matheusmohr.planner.trip.Trip;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

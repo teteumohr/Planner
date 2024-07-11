@@ -1,4 +1,4 @@
-package com.matheusmohr.planner.activities;
+package com.matheusmohr.planner.activity;
 
 import com.matheusmohr.planner.trip.Trip;
 import jakarta.persistence.*;
